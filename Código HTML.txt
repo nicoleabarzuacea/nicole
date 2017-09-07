@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+
+<head>
+    <title>Prende la tele</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Las películas que no te puedes perder">
+    <meta name="keywords" content="Cine,Películas,Recomendaciones">
+    <meta name="author" content="Nicole Abarzúa Cea">
+
+    <title>Prende la tele</title>
+    <meta property="og:title" content="Prende la tele" />
+    <meta property="og:type" content="image/jpeg" />
+    <meta property="og:url" content="http://prendelatele.bitballoon.com/" />
+    <meta property="og:description" content="¡Las películas que no te puedes perder!" />
+
+    <meta property="og:image" content="http://prendelatele.bitballoon.com/portada.jpg" />
+    <meta property="og:image:secure_url" content="https://prendelatele.bitballoon.com/portada.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:height" content="300" />
+    <meta property="og:image:alt" content="Una ilustración"
+    />
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous">
+    
+    <link href="style.css" rel="stylesheet">
+  
+</head>
+
+<body>
+<header>
+    <div class="container">
+                <h1 class=img src="tv.icono" alt="Una pantalla de televisor">Prende la tele</h1>
+             
+            <div class="row">
+            <div class="col-xs-12">
+            <p class="lead">
+                    ¡Películas que no te puedes perder!
+                </p>
+                <h2 class="titulo">
+                <a href="contacto.html">Contacto</a>
+                </h2>
+                <br>
+            </div>
+            <img class="imagen" src="imagen.2.jpg">
+            <br>
+            <br>
+
+
+            <div class="col-md-6">
+                <h2 class="titulo">
+                    Me and Earl and the Dying Girl (2015)
+                </h2>
+                <br>
+                <img class="imagen" src="meadg.png">
+                <br>
+                <br>
+                <h2 class="titulo">
+                        <a href="https://www.youtube.com/watch?v=qlEdSa2XcL0">Ver trailer</a>
+                        </h2>
+                        <br>
+                <p>Yo, él y Raquel (en Latinoamerica), es una película como pocas, una obra de arte que cuida cada detalle de
+                    su composición, tocandote la fibra con cada bizarra forma en que intenta evidenciar la fuerte relación
+                    que se da entre Greg y Ráquel... muestra como dos adolescentes forzados a entablar una amistad, se encuentran
+                    el uno al otro, y se acompañan en el difícil camino en el que ella se encuentra.
+                    <br>
+                    <br>
+            </div>
+
+            <div class="col-md-6">
+                <h2 class="titulo">
+                    Mr. Nobody (2009)
+                </h2>
+                <br>
+                <img class="imagen" src="mr.nobody.jpg">
+                <br>
+                <br>
+                <h2 class="titulo">
+                        <a href="https://www.youtube.com/watch?v=repjzEBL_sA">Ver trailer</a>
+                        </h2>
+                        <br>
+                <p>Mr. Nobody es una película belga de ciencia ficción dirigida por Jaco Van Dormael y protagonizada por Jared
+                    Leto, Diane Kruger y Sarah Polley. El conocido director, gracias a la película Toto le Héros, invita
+                    una vez más a los amantes de la ficción a emprender un viaje por la mente humana con personajes profundos
+                    y escenas surrealistas cargadas de sentimientos reales. 
+                    <br>
+                    <br>
+            </div>
+
+            <div class="col-md-6">
+                <h2 class="titulo">
+                    About time (2013)
+                </h2>
+                <br>
+                <img class="imagen" src="about.time.jpg">
+                <br>
+                <br>
+                <h2 class="titulo">
+                        <a href="https://www.youtube.com/watch?v=a2ZPebMXWKQ">Ver trailer</a>
+                        </h2>
+                        <br>
+                <p>Cuestión de tiempo (en Latinoamérica) es una película sobre un joven con la habilidad de viajar en el tiempo,
+                    haciendo uso de esto trata de cambiar su pasado con el fin de mejorar su futuro, en especial su vida
+                    sentimental. Rápida, profunda y divertida, Cuestión de tiempo hará derramar más de un lagrimon hasta
+                    a los más duros, dando cátedras respecto al amor... en todas sus formas.
+                    <br>
+                    <br>
+            </div>
+
+            <div class="col-md-6">
+                <h2 class="titulo">
+                    El secreto de sus ojos (2009)
+                </h2>
+                <br>
+                <img class="imagen" src="secreto.ojos.jpg">
+                <br>
+                <br>
+                <h2 class="titulo">
+                        <a href="https://www.youtube.com/watch?v=GcHkTSqeGoU">Ver trailer</a>
+                        </h2>
+                        <br>
+                <p>Si quieres romance, acción y misterio, todo en una misma película, El secreto de sus ojos es lo que andas
+                    buscando. No la recomiendo solo por ser la ganadora del Óscar a la mejor película extranjera en 2010,
+                    si no porque es el único largometraje que jamás me espere el final, si bien siendo objetiva en un inicio
+                    la historia se desarrolla de manera lenta a momentos (dura 127 minutos), vale la pena la espera, sumerguiendote
+                    en un film de excelencia.
+                    <br>
+                    <br>
+
+            </div>
+            <div class="col-md-6">
+                <h2 class="titulo">
+                    The Green Mile (1999)
+                </h2>
+                <br>
+                <img class="imagen" src="milla.verde.png">
+                <br>
+                <br>
+                <h2 class="titulo">
+                        <a href="https://www.youtube.com/watch?v=0zkms0Tkmus">Ver trailer</a>
+                        </h2>
+                        <br>
+                <p>Milagros inesperados (en Latinoamérica) basada en la obra de Stephen King "El pasillo de la muerte", la película
+                    es el relato de la vida de Paul Edgecomb, un oficial del corredor de la muerte de una penitenciaría en
+                    Luisiana en la década del 30', mostrando como conoce a John Coffey, un reo con poderes sobrenaturales.
+                    ¿Por qué la recomiendo? porque la actuación de Tom Hanks toca el fondo de la fibra y John Coffey es de
+                        esos personajes que uno no olvida nunca, un drama en todas sus letras, veálo, que no se lo cuenten.
+                        <br>
+                        <br>
+                </div>
+
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+                crossorigin="anonymous"></script>
+
+            <body>
+
+</html>
